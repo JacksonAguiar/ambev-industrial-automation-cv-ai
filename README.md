@@ -157,7 +157,7 @@ O README original menciona a licença [Creative Commons Attribution 4.0 Internat
 
 <div align="center">
 
-** Alfred Project**  
+**Alfred Project**  
 Robótica e IA aplicadas a desafios reais de operações industriais.
 
 [Documentação](https://2023m8t2-inteli.github.io/andevs/docs/intro) · [Código](./src) · [Histórico de contribuições](https://github.com/JacksonAguiar/ambev-industrial-automation-cv-ai/graphs/contributors)
